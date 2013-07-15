@@ -1,4 +1,3 @@
-
 {"friendlyVersion": "VERSION",
  "versionDefName": "APP_RESOURCES",
  "media": [
@@ -37,7 +36,7 @@
 	   {
 	   	"type":"font",
 	   	"defName":"FONT_LCARS_BOLD_17",
-	   	"file":"fonts/LCARS_BOLD.ttf"
+	   	"file":"fonts/LCARS_BOLD.TTF"
 	   }
 	  ]
 }
